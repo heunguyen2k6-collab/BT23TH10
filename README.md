@@ -56,7 +56,7 @@ false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorPr
 
 
 
-!\[Giao diện chính Bài 1](docs/bai1\_main.png)
+\[Giao diện chính Bài 1](docs/bai1\_main.png)
 
 
 
