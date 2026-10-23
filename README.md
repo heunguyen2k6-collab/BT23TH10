@@ -56,7 +56,7 @@ false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorPr
 
 
 
-\[Giao diện chính Bài 1](docs/bai1\_main.png)
+![Giao diện chính Bài 1](docs/bai1\_main.png)
 
 
 
@@ -66,7 +66,7 @@ TextBox.\*
 
 
 
-!\[Bắt lỗi Validation Bài 1](docs/bai1\_error.png)
+![Bắt lỗi Validation Bài 1](docs/bai1\_error.png)
 
 \*Mô tả: Kiểm tra hợp lệ dữ liệu nhập vào bằng ErrorProvider khi nhấn Thêm mới.\*
 
@@ -86,13 +86,13 @@ TextBox.\*
 
 
 
-!\[Giao diện Bài 2 và Load Ảnh](docs/bai2\_main.png)
+![Giao diện Bài 2 và Load Ảnh](docs/bai2\_main.png)
 
 \*Mô tả: Chọn ảnh bìa sách từ đĩa cứng hiển thị lên PictureBox và nạp dữ liệu từ file
 
 CSV.\*
 
-
+![Nạp dữ liệu lên CSV Bài 2](docs/bai2_csv.png)
 
 \---
 
@@ -108,13 +108,13 @@ CSV.\*
 
 
 
-!\[Giao diện Khung MDI](docs/bai3\_mdi.png)
+![Giao diện Khung MDI](docs/bai3\_mdi.png)
 
 \*Mô tả: Khung Form cha MDI điều khiển mở các Form con xếp tầng.\*
 
 
 
-!\[Minh họa Async không treo UI](docs/bai3\_async.png)
+![Minh họa Async không treo UI](docs/bai3\_mdi.png)
 
 \*Mô tả: Tiến trình ngầm chạy tải dữ liệu nặng 5 giây, giao diện vẫn kéo rê và thao tác
 
