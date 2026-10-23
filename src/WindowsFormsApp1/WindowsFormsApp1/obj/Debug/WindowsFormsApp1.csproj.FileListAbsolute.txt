@@ -1,0 +1,14 @@
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmBookManager.resources
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDoctor.resources
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMainMDI.resources
+C:\LTNET-TEST02-24810320307-NGUYENTRONGHIEU\src\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmPatient.resources
