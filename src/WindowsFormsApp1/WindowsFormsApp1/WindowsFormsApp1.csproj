@@ -61,6 +61,12 @@
     <Compile Include="frmBookManager.Designer.cs">
       <DependentUpon>frmBookManager.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCryptoStockTicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCryptoStockTicker.Designer.cs">
+      <DependentUpon>frmCryptoStockTicker.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmDoctor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,12 @@
     </Compile>
     <Compile Include="frmPatient.Designer.cs">
       <DependentUpon>frmPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRevenueAnalytics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRevenueAnalytics.Designer.cs">
+      <DependentUpon>frmRevenueAnalytics.cs</DependentUpon>
     </Compile>
     <Compile Include="MemberModel.cs" />
     <Compile Include="Program.cs" />
