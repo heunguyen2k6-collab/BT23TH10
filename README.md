@@ -114,7 +114,7 @@ CSV.\*
 
 
 
-![Minh họa Async không treo UI](docs/bai3\_mdi.png)
+![Minh họa Async không treo UI](docs/bai3\_layout.png)
 
 \*Mô tả: Tiến trình ngầm chạy tải dữ liệu nặng 5 giây, giao diện vẫn kéo rê và thao tác
 
